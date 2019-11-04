@@ -1,0 +1,6 @@
+@import url("https://fonts.googleapis.com/css?family=Quicksand|Ubuntu&display=swap");
+*,
+*::before,
+*::after {
+  font-family: "Quicksand", sans-serif !important;
+}
